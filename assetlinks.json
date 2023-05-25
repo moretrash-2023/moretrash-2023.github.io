@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.moretrash.collector",
+    "sha256_cert_fingerprints": ["09:6E:CF:08:22:DD:DF:BF:18:01:E8:D4:25:F2:0B:E6:F5:EF:B4:6A:C7:6A:E7:30:94:18:D7:43:42:EE:1F:2B"]
+  }
+}]
